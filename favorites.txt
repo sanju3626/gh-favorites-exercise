@@ -1,4 +1,12 @@
+FOOD
+------------------------
 Pav Bhaji
 Chicken Briyani
 Gluab Jamun
 Chocolate Ice Cream
+------------------------
+MOVIES
+------------------------
+Intersteller
+The Originals
+Mission Impossible
